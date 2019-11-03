@@ -1,6 +1,6 @@
 {
   "name": "node-web-util",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -29,6 +29,7 @@
     "lodash": "^4.17.15",
     "minimist": "^1.2.0",
     "minio": "^7.0.12",
+    "moment-range": "^4.0.2",
     "multer": "^1.4.1",
     "pg": "^7.12.0",
     "pg-hstore": "^2.3.3",
