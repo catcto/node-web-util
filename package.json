@@ -23,6 +23,7 @@
     "ffmpeg-extract-frames": "^2.0.2",
     "ffmpeg-probe": "^1.0.6",
     "fluent-ffmpeg": "^2.1.2",
+    "geoip-lite": "^1.4.1",
     "gifencoder": "^2.0.1",
     "image-size": "^0.7.4",
     "ioredis": "^4.14.0",
